@@ -12,7 +12,7 @@
 // Part 1 answer 👇🏻 ...
 
 const fullName = "Meshari Alhouli and Abdulwahab Abdal";
-const yearOfBirth = 2001;
+const yearOfBirth = 1999;
 let hobby = "Football";
 let funFact = "We Love Barca";
 let image =
